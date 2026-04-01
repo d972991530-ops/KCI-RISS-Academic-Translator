@@ -1,0 +1,5 @@
+{
+  "name": "KCI/RISS Academic Translator",
+  "description": "Specialized Korean-Chinese/English academic paper translation engine for KCI and RISS publications.",
+  "requestFramePermissions": []
+}
